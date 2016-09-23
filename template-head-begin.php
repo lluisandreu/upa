@@ -8,4 +8,4 @@
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">  
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="Urban photographers is a website designed to share the work of international contemporary photographers focusing on city and urban spaces.">
-  <title>Urban Photographers 
+  <title>

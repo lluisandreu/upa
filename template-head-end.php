@@ -1,2 +1,2 @@
-</title>
+The Urban Photographers Association</title>
 </head>

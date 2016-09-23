@@ -14,7 +14,7 @@ About Us
 	
 			<h2>About Us</h2>
 			
-			<p>Welcome to Urban Photographers, the website designed to share work
+			<p>Welcome to The Urban Photographers Association, the website designed to share work
 
 of contemporary international photographers focusing on cities and the 
 

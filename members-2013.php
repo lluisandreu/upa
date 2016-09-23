@@ -17,6 +17,18 @@
 		</div>
 	
 	</a>
+
+	<a href="members-bas-losekoot.php">
+	
+		<div class="profile">
+		
+			<h3 class="title">Bas Losekoot</h3>
+			
+			<img src="img/thumbs/bas-losekoot.jpg" alt="Bas Losekoot" />
+			
+		</div>
+	
+	</a>
 	
 	<a href="members-beatriz-veliz-argueta.php">
 	
