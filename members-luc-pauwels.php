@@ -13,7 +13,7 @@ Luc Pauwels | Thick Streets
 <div id="left-section">
       
         
-		<h2>Lau Pauwels</h2>
+		<h2>Luc Pauwels</h2>
 		
 		<h3 class="title">Thick Streets</h3>        
 		

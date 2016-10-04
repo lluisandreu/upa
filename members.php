@@ -3,6 +3,34 @@
 	<?php include 'template-header-start.php'; ?>
 	<?php include 'template-menu.php'; ?>
 	<?php include 'template-header-end.php'; ?>
+
+	<div class="members-grid clearfix">
+
+	<a href="members-alia-zapparova.php">
+		
+		<div class="profile">
+			
+			<h3 class="title">Alia Zapparova</h3>
+			
+			<img src="img/thumbs/zapparova.jpg" alt="Alia Zapparova" />
+			
+		</div>
+		
+	</a>
+
+	<a href="members-allan-grainger.php">
+		
+		<div class="profile">
+			
+			<h3 class="title">Allan Grainger</h3>
+			
+			<img src="img/thumbs/grainger.jpg" alt="Allan Grainger" />
+			
+		</div>
+		
+	</a>
+
+
 	<a href="members-anastassios-kavassis.php">
 		
 		<div class="profile">
@@ -14,6 +42,43 @@
 		</div>
 		
 	</a>
+
+	<a href="members-andy-day.php">
+		
+		<div class="profile">
+			
+			<h3 class="title">Andy Day</h3>
+			
+			<img src="img/thumbs/day.jpg" alt="Andy Day" />
+			
+		</div>
+		
+	</a>
+
+	<a href="members-anita-strasser.php">
+		
+		<div class="profile">
+			
+			<h3 class="title">Anita Strasser</h3>
+			
+			<img src="img/thumbs/strasser.jpg" alt="Anita Strasser" />
+			
+		</div>
+		
+	</a>
+
+	<a href="members-anne-zeitz.php">
+		
+		<div class="profile">
+			
+			<h3 class="title">Anne Zeitz</h3>
+			
+			<img src="img/thumbs/zeitz.jpg" alt="Anne Zeitz" />
+			
+		</div>
+		
+	</a>
+
 	<a href="members-bas-losekoot.php">
 		
 		<div class="profile">
@@ -168,6 +233,18 @@
 		
 	</a>
 
+	<a href="members-kamal-badhey.php">
+		
+		<div class="profile">
+			
+			<h3 class="title">Kamal Badhey</h3>
+			
+			<img src="img/thumbs/badhey.jpg" alt="Kamal Badhey" />
+			
+		</div>
+		
+	</a>
+
 	<a href="members-katya-demidova.php">
 		
 		<div class="profile">
@@ -277,8 +354,18 @@
 		</div>
 		
 	</a>
-	
-	
+
+	<a href="members-nai-wen-hsu.php">
+		
+		<div class="profile">
+			
+			<h3 class="title">Nai Wen Hsu</h3>
+			
+			<img src="img/thumbs/wen-hsu.jpg" alt="Nai Wen Hsu" />
+			
+		</div>
+		
+	</a>
 	
 	<a href="members-nora-alissa.php">
 		
@@ -454,5 +541,6 @@
 		</div>
 		
 	</a>
+	</div>
 	
 	<?php include 'template-footer.php'; ?>

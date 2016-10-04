@@ -28,7 +28,7 @@ $title="Always Let the Road Decide";
 
 		<h3>Biography</h3>
 		
-		<p>David Kendall's practice explores how spatial, economic and design initiatives, as well as participatory practices, combine to encourage social and spatial interconnections or conflict in cities. Kendall utilises visual archives, mapping, events and embodied experiences to activate and generate his photographic, film and site-specific projects. His photographs, spatial research and collaborative projects have been exhibited and presented internationally including the British Museum, UK, Jüdisches Museum Berlin, Germany, Centro Cultural Manuel Gómez Morín, Santiago de Queretaro, Mexicó, Tate Britain, UK and Institut français London, UK. Kendall is a visiting research fellow within the Centre for Urban and Community Research, Goldsmiths, University of London, UK.</p>
+		<p>David Kendall's practice explores how spatial, economic and design initiatives, as well as participatory practices, combine to encourage social and spatial interconnections or conflict in cities. Kendall utilises visual archives, mapping, events and embodied experiences to activate and generate his photographic, film and site-specific projects. His photographs, spatial research and collaborative projects have been exhibited and presented internationally including the British Library, UK, Jüdisches Museum Berlin, Germany, Centro Cultural Manuel Gómez Morín, Santiago de Queretaro, Mexicó, Tate Britain, UK and Institut français London, UK. Kendall is a visiting research fellow within the Centre for Urban and Community Research, Goldsmiths, University of London, UK.</p>
 
 		<a href="http://www.david-kendall.co.uk" target="_blank">www.david-kendall.co.uk</a>
 

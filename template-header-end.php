@@ -1,2 +1,2 @@
     </div>
-    <div id="main" class="group">
+    <div id="main" class="group clearfix">

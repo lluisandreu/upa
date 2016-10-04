@@ -1,4 +1,29 @@
   </div>
+  <footer class="footer clearfix">
+  	<div class="left">
+  		<p><small>The Urban Photographers Association &copy; 2016</small> | <a href="intranet.php"><small>Member area</small></a></p>
+  	</div>
+  	<div class="right">
+  		<a href="https://twitter.com/the_u_p_a" target="_blank">
+  			<span class="fa-stack fa-lg" aria-hidden="true">
+	          <i class="fa fa-circle fa-stack-2x"></i>
+	          <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+	        </span>
+  		</a>
+  		<a href="https://www.facebook.com/Urban-Photographers-Association-UPA-1675040632774204/?fref=ts" target="_blank">
+  			<span class="fa-stack fa-lg" aria-hidden="true">
+	          <i class="fa fa-circle fa-stack-2x"></i>
+	          <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+	        </span>
+  		</a>
+  		<a href="https://www.instagram.com/urbanphotographers_upa/" target="_blank">
+  			<span class="fa-stack fa-lg" aria-hidden="true">
+	          <i class="fa fa-circle fa-stack-2x"></i>
+	          <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+	        </span>
+  		</a>
+  	</div>
+  </footer>
   </div>
   
 <script>
